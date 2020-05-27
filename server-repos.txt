@@ -1,0 +1,7 @@
+[{ "url": "mvlocal:GoldenBoy.git" },
+ { "url": "mvlocal:HappyBob.git" },
+ { "url": "mvlocal:acme.git" },
+ { "url": "mvlocal:upstream.git" },
+ { "url": "mvlocal:Demo.git" },
+ { "url": "mvlocal:Remko.git" },
+ { "url": "mvlocal:Walter.git" }  ]

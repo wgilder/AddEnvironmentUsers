@@ -1,0 +1,18 @@
+<html>
+<body>
+<p>Hello,</p>
+<p></p>
+<p>Welcome to the UiPath Process Mining Bootcamp. Please find below information on 
+how to access the environment we'll be using during the Bootcamp. Feel free to explore 
+the site a bit, in order to acquaint yourself with the product.</p>
+<p></p>
+<p>
+<ul>
+<li>URL: {url}</li>
+<li>Username: {username}</li>
+<li>Password: {password}</li>
+</ul>
+</p>
+<p>Thanks, your UiPath Process Mining Team!</p>
+</body>
+</html>

@@ -1,0 +1,18 @@
+// see help(?) for detailed information
+{
+	"DefaultEnvironment": "production"
+        , "Environments": [ "GoldenBoy",  "HappyBob",  "production", "acceptance", "Walter", "Erik", "Inge", "Remko", "Demo" ]
+
+	// Configure your smtp server here, you can test this using the following command:
+	// processgold -DataServer -SendMail "email@example.com" "Test Subject" "Test Body"
+
+	, "MailSettings": {
+	  "SMTP": "smtp.dreamhost.com"
+	  , "port": "25"
+	  , "username": "processgold@devhed.com"
+  	  , "password": "Test@102"
+	}
+
+	// Enable attribute initialization logging
+	//, "EnableAttrLog": true
+}
