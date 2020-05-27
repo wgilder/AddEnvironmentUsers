@@ -2,7 +2,7 @@
 <body>
 <p>Hello,</p>
 <p></p>
-<p>Welcome to UiPath Process Mining Bootcamp. Please find below information on 
+<p>Welcome to UiPath Process Mining. Please find below information on 
 how to access the environment.</p>
 <p></p>
 <p>
